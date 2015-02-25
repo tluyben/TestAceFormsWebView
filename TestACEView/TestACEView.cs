@@ -24,9 +24,7 @@ namespace TestACEView
 				// the BaseUrlWebViewRenderer does this for iOS, until bug is fixed
 				html.BaseUrl = DependencyService.Get<IBaseUrl> ().Get ();
 			}
-
-
-		//	var htmlSource = new HtmlWebViewSource ();
+				
 			html.Html = @"
 
 	<!DOCTYPE html>
@@ -72,7 +70,6 @@ namespace TestACEView
 			
 			webView.Source = html;
 
-			// The root page of your application
 			MainPage = new ContentPage {
 				Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 5),
 				Content = webView
