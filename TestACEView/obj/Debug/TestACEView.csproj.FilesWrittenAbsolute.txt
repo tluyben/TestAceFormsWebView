@@ -1,0 +1,7 @@
+/Users/tycholuyben/Projects/TestACEView/TestACEView/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/tycholuyben/Projects/TestACEView/TestACEView/bin/Debug/TestACEView.dll.mdb
+/Users/tycholuyben/Projects/TestACEView/TestACEView/bin/Debug/TestACEView.dll
+/Users/tycholuyben/Projects/TestACEView/TestACEView/obj/Debug/TestACEView.dll
+/Users/tycholuyben/Projects/TestACEView/TestACEView/obj/Debug/TestACEView.dll.mdb
+/Users/tycholuyben/Projects/TestACEView/TestACEView/bin/Debug/Xamarin.Forms.Core.dll
+/Users/tycholuyben/Projects/TestACEView/TestACEView/bin/Debug/Xamarin.Forms.Xaml.dll
